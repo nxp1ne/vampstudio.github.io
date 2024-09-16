@@ -57,9 +57,14 @@ h2 {
 }
 
 .developers {
+    margin-top: 40px;
+}
+
+.developer-list {
     display: flex;
     justify-content: center;
     gap: 40px;
+    flex-wrap: wrap;
 }
 
 .developer {
